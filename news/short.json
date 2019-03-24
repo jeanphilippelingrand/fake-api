@@ -3,14 +3,14 @@
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
     "updateDate": "2019-03-24T00:00:00.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the first item.",
+    "mainText": "Amelie is the most beautiful girl on earth",
     "redirectionUrl": "https://www.amazon.com"
    },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
     "updateDate": "2019-03-24T00:00:00.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "mainText": "Tonight bambi and raccoon are gonna go to the gym and then do a demenegaement",
     "redirectionUrl": "https://www.amazon.com"
   }
 ]
