@@ -1,16 +1,17 @@
 [
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2019-03-24T00:00:01.0Z",
-    "titleText": "The most popular item on ssense today for men is",
-    "mainText": "Amelie is the most beautiful girl on earth",
+    "updateDate": "2019-03-25T00:00:01.0Z",
+    "titleText": "Top article on ssense editorial",
+    "mainText": "WHAT’S UNDER YOUR TRENCHCOAT?",
     "redirectionUrl": "https://www.ssense.com"
    },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2019-03-24T00:00:00.0Z",
-    "titleText": "The most popular item on ssense for women today is",
-    "mainText": "Tonight bambi and raccoon are gonna go to the gym and then do a demenegaement",
+    "updateDate": "2019-03-25T00:00:00.0Z",
+    "titleText": "Second article at ssense",
+    "mainText": "After a Breakout Year in 2018, the Singer and DJ Sits Down with Performer Victoria Sin to Talk Language, Community, and What’s Next
+",
     "redirectionUrl": "https://www.ssense.com"
   }
 ]
